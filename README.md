@@ -37,7 +37,7 @@
 
 <h3 align="left"> 📫 Connect with me on LinkedIn! </h3>
 
-    [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/nakulan-karthikeyan)
+   [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/nakulan-karthikeyan)
 
 
 ## About me
