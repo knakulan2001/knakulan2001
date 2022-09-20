@@ -1,26 +1,27 @@
-# Hi There! My name is Nakulan Karthikeyan! 
+# Hi There :wave: My name is Nakulan Karthikeyan! 
 
 ## Languages and Tools I Use:
- 
-HTML5  
-CSS3 
-JavaScript
+
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>&nbsp;
+<img alt="ReactJS" src="https://img.shields.io/badge/ReactJS-%61DAFB.svg?style=for-the-badge&logo=react&logoColor=white"/>&nbsp;
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>&nbsp;
+<img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>&nbsp;
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;
+<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
+<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>&nbsp;
+
 ReactJS
 Dart
 Flutter
-Java 
-Python
-C++
-NodeJS  
-Express.js  
-MySQL  
-Git  
-GitHub 
+C++ 
 AWS Services
 
-
 📫 Connect with me on LinkedIn! 
-Linkedin Badge
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/nakulan-karthikeyan)
 
 
 ## About me
