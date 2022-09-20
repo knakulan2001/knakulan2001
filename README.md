@@ -33,6 +33,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knakulan2001&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 <h3 align="left"> 📫 Connect with me on LinkedIn! </h3>
