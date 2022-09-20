@@ -1,6 +1,6 @@
-#Hi There! My name is Nakulan Karthikeyan! 
+# Hi There! My name is Nakulan Karthikeyan! 
 
-##Languages and Tools I Use:
+## Languages and Tools I Use:
  
 HTML5  
 CSS3 
@@ -23,7 +23,7 @@ AWS Services
 Linkedin Badge
 
 
-##About me
+## About me
 🔭 Looking for Software Engineering and Web Development job oppurtunities!
 
 🌱 Learning and working with ReactJS and various AWS Services (Lambdas, API Gateways, Application Load Balancers, DynamoDB, Secrets Manager, etc.)!
